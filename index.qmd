@@ -1,0 +1,50 @@
+---
+title: "Hinano Kamenosono"
+about:
+  template: solana
+  id: heading
+  links: 
+    - text: Mail
+      icon: envelope
+      href: mailto:khina@shs.ens.titech.ac.jp
+---
+
+:::{#heading}
+
+## Education
+Tokyo Institute of Technology M1 (Apr.2023-present)
+
+Tsuda University, B.A. in Policy Studies (Apr.2019-Mar.2023)
+
+## Research Theme
+US military base in Okinawa
+
+Survey Experiments
+
+## Experience
+Graduation Thesis: "Analysis of the National Security Schemes through Energy Trade: Comparison between Japan and Taiwan"
+
+## Maps
+::: {.grid}
+
+::: {.g-col-6}
+:::{.callout-note}
+## [Shinji Kawana Lab](https://search.star.titech.ac.jp/titech-ss/pursuer.act?event=outside&key_rid=B000273113&lang=jp) @Tokyo Tech
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1375.1082209675037!2d139.68189159865463!3d35.60549186983698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f5c7cc7bd92d%3A0xc8499216b1e3dd28!2z5p2x5Lqs5bel5qWt5aSn5a2mIOilvznlj7fppKg!5e0!3m2!1sja!2sjp!4v1695965964962!5m2!1sja!2sjp" width="370" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+:::
+
+:::
+
+::: {.g-col-6}
+:::{.callout-note}
+## [Atsushi Tago Lab](https://a-tago.github.io/) @Waseda
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1184.266902001076!2d139.71901839540826!3d35.70903184001431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188d1b65b68f05%3A0x548ad5986c6f7ee1!2z44CSMTY5LTAwNTEg5p2x5Lqs6YO95paw5a6_5Yy66KW_5pep56iy55Sw77yR5LiB55uu77yW4oiS77yRIOaXqeeosueUsOWkp-WtpiAz5Y-36aSo!5e0!3m2!1sja!2sjp!4v1695966207667!5m2!1sja!2sjp" width="370" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+:::
+
+:::
+
+:::
+
+:::
