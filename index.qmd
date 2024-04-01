@@ -1,5 +1,5 @@
 ---
-title: "Hinano Kamenosono"
+title: "Hinano Kamenosono / 亀之園 ひなの"
 about:
   template: solana
   id: heading
@@ -11,15 +11,23 @@ about:
 
 :::{#heading}
 
+::: {.panel-tabset}
+# English
+
 ## Education
 Tokyo Institute of Technology, M1 (Apr.2023-present)
 
 Tsuda University, B.A. in Policy Studies (Apr.2019-Mar.2023)
 
-## Research Theme
-US military bases in Okinawa
+## Job Experiments
+Teaching Assistant "Statistics B" in the Department of Policy Studies, Tsuda University (Apr.2023-Mar.2024)
 
+## Research Theme
 Survey Experiments
+
+Local Public Opinion
+
+US military bases in Okinawa
 
 ## Experience
 Graduation Thesis: "Analysis of the National Security Schemes through Energy Trade: Comparison between Japan and Taiwan" (2023)
@@ -43,6 +51,62 @@ Poster Presentation: "Public Opinion on U.S. Military Bases in Okinawa" (26, Sep
 ## [Atsushi Tago Lab](https://a-tago.github.io/) @Waseda
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d924.9990165076774!2d139.7190011967158!3d35.708478600163374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188d1b65b68f05%3A0x548ad5986c6f7ee1!2z44CSMTY5LTAwNTEg5p2x5Lqs6YO95paw5a6_5Yy66KW_5pep56iy55Sw77yR5LiB55uu77yW4oiS77yRIOaXqeeosueUsOWkp-WtpiAz5Y-36aSo!5e0!3m2!1sja!2sjp!4v1695984163272!5m2!1sja!2sjp" width="auto" height="auto" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+:::
+
+:::
+
+:::
+
+# 日本語
+
+## 学歴
+東京工業大学　環境・社会理工学院　社会・人間科学系　修士課程1年　（2023年4月〜現在）
+
+津田塾大学　総合政策学部　総合政策学科　（2019年4月〜2023年3月）
+
+## 職歴
+津田塾大学　総合政策学部　総合政策学科TA（「統計B」）（2023年4月〜2024年3月）
+
+## 研究テーマ
+サーベイ実験
+
+ローカル世論
+
+沖縄の米軍基地
+
+## 業績
+学士論文：「資源エネルギー貿易に着目した日本と台湾の安全保障体制の比較考察」2023年3月学士取得
+
+**口頭発表**<br>
+
+- 「法人税率の差異は国際資本移動の要因となるか？―マクロ統計からのBEPS考察―」インターゼミナール2021年12月19日
+
+- 「資源エネルギー貿易に着目した日本と台湾の安全保障体制の比較考察」インターゼミナール2022年12月11日
+
+- 「資源エネルギー貿易に着目した海上輸送の安全保障」税関発足150周年事業『大学生フォーラム』2023年3月7日
+
+**ポスター発表**<br>
+Poster Presentation: "Public Opinion on U.S. Military Bases in Okinawa"　早稲田大学WE-SPICE （2023年9月26日）　[WE-SIPCE 2023](https://www.waseda.jp/inst/sgu/news/2023/09/26/26911/)
+
+## Maps
+::: {.grid}
+
+::: {.grid-auto-fit}
+:::{.callout-note}
+## [川名 晋史 研究室](https://search.star.titech.ac.jp/titech-ss/pursuer.act?event=outside&key_rid=B000273113&lang=jp) @Tokyo Tech
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1621.9433944506384!2d139.6824459!3d35.6058591!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f5c7cc7bd92d%3A0xc8499216b1e3dd28!2z5p2x5Lqs5bel5qWt5aSn5a2mIOilvznlj7fppKg!5e0!3m2!1sja!2sjp!4v1695984121571!5m2!1sja!2sjp" width="auto" height="auto" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+:::
+
+:::
+
+::: {.grid-auto-fit}
+:::{.callout-note}
+## [多湖 淳 研究室](https://a-tago.github.io/) @Waseda
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d924.9990165076774!2d139.7190011967158!3d35.708478600163374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188d1b65b68f05%3A0x548ad5986c6f7ee1!2z44CSMTY5LTAwNTEg5p2x5Lqs6YO95paw5a6_5Yy66KW_5pep56iy55Sw77yR5LiB55uu77yW4oiS77yRIOaXqeeosueUsOWkp-WtpiAz5Y-36aSo!5e0!3m2!1sja!2sjp!4v1695984163272!5m2!1sja!2sjp" width="auto" height="auto" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+:::
+
 :::
 
 :::
