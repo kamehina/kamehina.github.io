@@ -13,13 +13,13 @@ website:
 
 format:
   html:
+    include-in-header:
+      - text: |
+          <meta name="google-site-verification" content="Skv6aQeeeA2hxyd_3Xgn7CIFl6LQgj6LkOCVwygGtKo" />
     mainfont: Noto Sans JP, Helvetica Neue, Arial, "Hiragino Kaku Gothic ProN" "Hiragino Sans", "BIZ UDPGothic", Meiryo, sans-serif
     # fontsize: 20pt
     theme: minty
     toc: true
     toc-title: " "
-    include-in-header:
-      - <meta name="google-site-verification" content="Skv6aQeeeA2hxyd_3Xgn7CIFl6LQgj6LkOCVwygGtKo" />
-    include-before-body: header.html
 
 lang: ja
