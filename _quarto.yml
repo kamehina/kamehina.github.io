@@ -19,8 +19,7 @@ format:
     toc: true
     toc-title: " "
     include-in-header:
-      - text: |
-          <meta name="google-site-verification" content="Skv6aQeeeA2hxyd_3Xgn7CIFl6LQgj6LkOCVwygGtKo" />
+      - <meta name="google-site-verification" content="Skv6aQeeeA2hxyd_3Xgn7CIFl6LQgj6LkOCVwygGtKo" />
     include-before-body: header.html
 
 lang: ja
