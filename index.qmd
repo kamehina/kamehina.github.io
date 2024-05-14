@@ -21,26 +21,24 @@ Tsuda University, B.A. in Policy Studies (Apr.2019-Mar.2023)
 
 ## Job Experiments
 
-- Teaching Assistant "International Relations C" in Tokyo Institute of Technology (Apr.2024-Jun.2024)
-
-- Teaching Assistant "Data Science" (Required) in the Department of Policy Studies, Tsuda University (Apr.2024-Jun.2024)
-
-- Teaching Assistant "Statistics B" (Required) in the Department of Policy Studies, Tsuda University (Apr.2023-Mar.2024)
+Teaching Assistant "International Relations C" in Tokyo Institute of Technology (Apr.2024-Jun.2024)<br>
+Teaching Assistant "Data Science" (Required) in the Department of Policy Studies, Tsuda University (Apr.2024-Jun.2024)<br>
+Teaching Assistant "Statistics B" (Required) in the Department of Policy Studies, Tsuda University (Apr.2023-Mar.2024)
 
 ## Association
 [Base Politics](https://www.basepoliticsjp.com/)
 
 ## Research Theme
-Survey Experiments
-
-Local Public Opinion
-
+Survey Experiments<br>
+Local Public Opinion<br>
 US military bases in Okinawa
 
 ## Experience
 Graduation Thesis: "Analysis of the National Security Schemes through Energy Trade: Comparison between Japan and Taiwan" (2023)
 
 Poster Presentation: "Public Opinion on U.S. Military Bases in Okinawa" (26, Sept. 2023) [WE-SIPCE 2023](https://www.waseda.jp/inst/sgu/news/2023/09/26/26911/)
+
+Kamenosono, H. and Tago, A. "Public Opinion Study on US Military Bases: A Survey Experiment with Taiwan Crisis" (Jan. 2024) OSF Registries <https://doi.org/10.17605/OSF.IO/SPU4R>
 
 ## Maps
 ::: {.grid}
@@ -73,33 +71,28 @@ Poster Presentation: "Public Opinion on U.S. Military Bases in Okinawa" (26, Sep
 津田塾大学　総合政策学部　総合政策学科　（2019年4月〜2023年3月）
 
 ## 職歴
-
-- 東京工業大学　文系教養科目TA（「国際関係論C」）（2024年4月〜2024年6月）
-
-- 津田塾大学　総合政策学部　総合政策学科TA（「データ・サイエンス入門」必修科目）（2024年4月〜2024年6月）
-
-- 津田塾大学　総合政策学部　総合政策学科TA（「統計B」必修科目）（2023年4月〜2024年3月）
+東京工業大学　文系教養科目TA（「国際関係論C」）（2024年4月〜2024年6月）<br>
+津田塾大学　総合政策学部　総合政策学科TA（「データ・サイエンス入門」必修科目）（2024年4月〜2024年6月）<br>
+津田塾大学　総合政策学部　総合政策学科TA（「統計B」必修科目）（2023年4月〜2024年3月）
 
 ## 所属研究会
 [基地政治研究会](https://www.basepoliticsjp.com/)
 
 ## 研究テーマ
-サーベイ実験
-
-ローカル世論
-
+サーベイ実験<br>
+ローカル世論<br>
 沖縄の米軍基地
 
 ## 業績
 学士論文：「資源エネルギー貿易に着目した日本と台湾の安全保障体制の比較考察」2023年3月学士取得
 
+**サーベイ実験**<br>
+Kamenosono, H. and Tago, A. "Public Opinion Study on US Military Bases: A Survey Experiment with Taiwan Crisis" (Jan. 2024) OSF Registries <https://doi.org/10.17605/OSF.IO/SPU4R>
+
 **口頭発表**<br>
-
-- 「法人税率の差異は国際資本移動の要因となるか？―マクロ統計からのBEPS考察―」インターゼミナール2021年12月19日
-
-- 「資源エネルギー貿易に着目した日本と台湾の安全保障体制の比較考察」インターゼミナール2022年12月11日
-
-- 「資源エネルギー貿易に着目した海上輸送の安全保障」税関発足150周年事業『大学生フォーラム』2023年3月7日
+「法人税率の差異は国際資本移動の要因となるか？―マクロ統計からのBEPS考察―」インターゼミナール2021年12月19日<br>
+「資源エネルギー貿易に着目した日本と台湾の安全保障体制の比較考察」インターゼミナール2022年12月11日<br>
+「資源エネルギー貿易に着目した海上輸送の安全保障」税関発足150周年事業『大学生フォーラム』2023年3月7日
 
 **ポスター発表**<br>
 Poster Presentation: "Public Opinion on U.S. Military Bases in Okinawa"　早稲田大学WE-SPICE （2023年9月26日）　[WE-SIPCE 2023](https://www.waseda.jp/inst/sgu/news/2023/09/26/26911/)
