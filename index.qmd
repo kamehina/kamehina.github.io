@@ -20,7 +20,7 @@ Tokyo Institute of Technology, M2 (Apr.2023-present)
 Tsuda University, B.A. in Policy Studies (Apr.2019-Mar.2023)
 
 ## Job Experiments
-
+Teaching Assistant "International Relations A" in Tokyo Institute of Technology (Oct.2024-Nov.2024)<br>
 Teaching Assistant "International Relations C" in Tokyo Institute of Technology (Apr.2024-Jun.2024)<br>
 Teaching Assistant "Data Science" (Required) in the Department of Policy Studies, Tsuda University (Apr.2024-Jun.2024)<br>
 Teaching Assistant "Statistics B" (Required) in the Department of Policy Studies, Tsuda University (Apr.2023-Mar.2024)
@@ -71,9 +71,12 @@ Kamenosono, H. and Tago, A. "Public Opinion Study on US Military Bases: A Survey
 津田塾大学　総合政策学部　総合政策学科　（2019年4月〜2023年3月）
 
 ## 職歴
+東京工業大学　文系教養科目TA（「国際関係論A」）（2024年10月〜2024年11月）<br>
 東京工業大学　文系教養科目TA（「国際関係論C」）（2024年4月〜2024年6月）<br>
 津田塾大学　総合政策学部　総合政策学科TA（「データ・サイエンス入門」必修科目）（2024年4月〜2024年6月）<br>
-津田塾大学　総合政策学部　総合政策学科TA（「統計B」必修科目）（2023年4月〜2024年3月）
+津田塾大学　総合政策学部　総合政策学科TA（「統計A」必修科目）（2024年9月〜2024年11月）<br>
+津田塾大学　総合政策学部　総合政策学科TA（「統計B」必修科目）（2024年11月〜2025年1月）<br>
+津田塾大学　総合政策学部　総合政策学科TA（「統計B」必修科目）（2023年11月〜2024年1月）
 
 ## 所属研究会
 [基地政治研究会](https://www.basepoliticsjp.com/){target="_blank"}
@@ -84,18 +87,25 @@ Kamenosono, H. and Tago, A. "Public Opinion Study on US Military Bases: A Survey
 沖縄の米軍基地
 
 ## 業績
+修士論文：「仮想・台湾有事における日本政府の対応をめぐる沖縄県民と他県民の支持態度比較実験：シグナルとバックダウンの影響」2025年3月修士取得見込み<br>
 学士論文：「資源エネルギー貿易に着目した日本と台湾の安全保障体制の比較考察」2023年3月学士取得
 
 **サーベイ実験**<br>
 Kamenosono, H. and Tago, A. "Public Opinion Study on US Military Bases: A Survey Experiment with Taiwan Crisis" (Jan. 2024) OSF Registries <https://doi.org/10.17605/OSF.IO/SPU4R>
 
 **口頭発表**<br>
+国際会議での発表<br>
+[1]	Tago, A. and Kamenosono, H. “Status Perception under the Crisis: A Comparison of National and Okinawa Samples.” Pacific International Politics Conference (2024 PIPC). 2024年7月. （口頭・査読あり）
+
+学会・ワークショップでの発表<br>
+[1]	Kamenosono, H. “Assurance and Threats in a Taiwan Contingency Scenario: Public Opinion in Japan and Okinawa.” 計量・数理政治学会（JSQPS）. 高知工科大学, 高知県, 2024年7月. （口頭・査読あり）<br>
+[2]	Kamenosono, H. “Public Opinion Comparison between Okinawa and National with Taiwan Crisis Scenario.” 科学研究費・開拓研究ワークショップ「若手研究者による新しい手法による政治学分析と開拓研究の戦略の検討」早稲田大学, 東京都, 2024年3月. （口頭・査読なし）<br>
+[3]	Kamenosono, H. "Public Opinion on U.S. Military Bases in Okinawa"　早稲田大学WE-SPICE （2023年9月26日）　[WE-SIPCE 2023](https://www.waseda.jp/inst/sgu/news/2023/09/26/26911/){target="_blank"} （ポスター発表・査読なし）<br>
+
+その他<br>
 「法人税率の差異は国際資本移動の要因となるか？―マクロ統計からのBEPS考察―」インターゼミナール2021年12月19日<br>
 「資源エネルギー貿易に着目した日本と台湾の安全保障体制の比較考察」インターゼミナール2022年12月11日<br>
 「資源エネルギー貿易に着目した海上輸送の安全保障」税関発足150周年事業『大学生フォーラム』2023年3月7日
-
-**ポスター発表**<br>
-Poster Presentation: "Public Opinion on U.S. Military Bases in Okinawa"　早稲田大学WE-SPICE （2023年9月26日）　[WE-SIPCE 2023](https://www.waseda.jp/inst/sgu/news/2023/09/26/26911/){target="_blank"}
 
 ## Maps
 ::: {.grid}
