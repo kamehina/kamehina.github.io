@@ -23,7 +23,9 @@ Tsuda University, B.A. in Policy Studies (Apr.2019-Mar.2023)
 Teaching Assistant "International Relations A" in Tokyo Institute of Technology (Oct.2024-Nov.2024)<br>
 Teaching Assistant "International Relations C" in Tokyo Institute of Technology (Apr.2024-Jun.2024)<br>
 Teaching Assistant "Data Science" (Required) in the Department of Policy Studies, Tsuda University (Apr.2024-Jun.2024)<br>
-Teaching Assistant "Statistics B" (Required) in the Department of Policy Studies, Tsuda University (Apr.2023-Mar.2024)
+Teaching Assistant "Statistics A" (Required) in the Department of Policy Studies, Tsuda University (Sep.2024-Nov.2024)<br>
+Teaching Assistant "Statistics B" (Required) in the Department of Policy Studies, Tsuda University (Nov.2024-Jan.2025)<br>
+Teaching Assistant "Statistics B" (Required) in the Department of Policy Studies, Tsuda University (Nov.2023-Jan.2024)
 
 ## Association
 [Base Politics](https://www.basepoliticsjp.com/){target="_blank"}
@@ -34,9 +36,14 @@ Local Public Opinion<br>
 US military bases in Okinawa
 
 ## Experience
+Master's Thesis: "A Okinawa-National Comparative Experimental Study with a Hypothetical Taiwan Contingency: The Effects of Signaling and Backing Down" (M.A. Expected: March 2025)
+
 Graduation Thesis: "Analysis of the National Security Schemes through Energy Trade: Comparison between Japan and Taiwan" (2023)
 
-Poster Presentation: "Public Opinion on U.S. Military Bases in Okinawa" (26, Sept. 2023) [WE-SIPCE 2023](https://www.waseda.jp/inst/sgu/news/2023/09/26/26911/){target="_blank"}
+[1]	Tago, A. and Kamenosono, H. “Status Perception under the Crisis: A Comparison of National and Okinawa Samples.” Pacific International Politics Conference (2024 PIPC). Jul. 2024. (Oral, Reviewed)<br>
+[2]	Kamenosono, H. “Assurance and Threats in a Taiwan Contingency Scenario: Public Opinion in Japan and Okinawa.” JSQPS. Kochi University of Technology, Jul. 2024. (Oral, Reviewed)<br>
+[3]	Kamenosono, H. “Public Opinion Comparison between Okinawa and National with Taiwan Crisis Scenario.” JSPS Kakenhi (Grant-in-Aid for Scientific Research, Pioneering) Workshop: "Exploring Strategies for Pioneering Research and Political Science Analysis Using Innovative Methods by Early-Career Researchers" Waseda University. Mar. 2024. (Oral)<br>
+[4]	Kamenosono, H. "Public Opinion on U.S. Military Bases in Okinawa"　Waseda University, WE-SPICE （26, Sept. 2023）　[WE-SIPCE 2023](https://www.waseda.jp/inst/sgu/news/2023/09/26/26911/){target="_blank"} （Poster Presentation）<br>
 
 Kamenosono, H. and Tago, A. "Public Opinion Study on US Military Bases: A Survey Experiment with Taiwan Crisis" (Jan. 2024) OSF Registries <https://doi.org/10.17605/OSF.IO/SPU4R>
 
