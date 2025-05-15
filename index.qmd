@@ -6,7 +6,7 @@ about:
   links: 
     - text: Mail
       icon: envelope
-      href: mailto:khina@shs.ens.titech.ac.jp
+      href: mailto:kamenosono@akane.waseda.jp
 ---
 
 :::{#heading}
@@ -14,8 +14,12 @@ about:
 ::: {.panel-tabset}
 # English
 
+1st-year Doctoral Student at Graduate School of Political Science, Waseda University
+
+Research Fellow (DC1), Japan Society for the Promotion of Science
+
 ## Education
-Tokyo Institute of Technology, M2 (Apr.2023-present)
+Institute of Science Tokyo, M.A. (Apr.2023-Mar.2025)
 
 Tsuda University, B.A. in Policy Studies (Apr.2019-Mar.2023)
 
@@ -33,10 +37,10 @@ Teaching Assistant "Statistics B" (Required) in the Department of Policy Studies
 ## Research Theme
 Survey Experiments<br>
 Local Public Opinion<br>
-US military bases in Okinawa
+US Military Bases in Okinawa
 
 ## Experience
-Master's Thesis: "A Okinawa-National Comparative Experimental Study with a Hypothetical Taiwan Contingency: The Effects of Signaling and Backing Down" (M.A. Expected: March 2025)
+Master's Thesis: "A Okinawa-National Comparative Experimental Study with a Hypothetical Taiwan Contingency: The Effects of Signaling and Backing Down" (2025)
 
 Graduation Thesis: "Analysis of the National Security Schemes through Energy Trade: Comparison between Japan and Taiwan" (2023)
 
@@ -48,32 +52,20 @@ Graduation Thesis: "Analysis of the National Security Schemes through Energy Tra
 Kamenosono, H. and Tago, A. "Public Opinion Study on US Military Bases: A Survey Experiment with Taiwan Crisis" (Jan. 2024) OSF Registries <https://doi.org/10.17605/OSF.IO/SPU4R>
 
 ## Maps
-::: {.grid}
 
-::: {.grid-auto-fit}
-:::{.callout-note}
-## [Shinji Kawana Lab](https://sites.google.com/view/kawanalab){target="_blank"} @Tokyo Tech
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1621.9433944506384!2d139.6824459!3d35.6058591!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f5c7cc7bd92d%3A0xc8499216b1e3dd28!2z5p2x5Lqs5bel5qWt5aSn5a2mIOilvznlj7fppKg!5e0!3m2!1sja!2sjp!4v1695984121571!5m2!1sja!2sjp" width="auto" height="auto" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-:::
-
-:::
-
-::: {.grid-auto-fit}
 :::{.callout-note}
 ## [Atsushi Tago Lab](https://a-tago.github.io/){target="_blank"} @Waseda
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d924.9990165076774!2d139.7190011967158!3d35.708478600163374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188d1b65b68f05%3A0x548ad5986c6f7ee1!2z44CSMTY5LTAwNTEg5p2x5Lqs6YO95paw5a6_5Yy66KW_5pep56iy55Sw77yR5LiB55uu77yW4oiS77yRIOaXqeeosueUsOWkp-WtpiAz5Y-36aSo!5e0!3m2!1sja!2sjp!4v1695984163272!5m2!1sja!2sjp" width="auto" height="auto" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 :::
 
-:::
-
-:::
-
 # 日本語
+早稲田大学大学院　政治学研究科　博士課程1年　（2025年4月〜現在）
+
+日本学術振興会特別研究員　DC1
 
 ## 学歴
-東京工業大学　環境・社会理工学院　社会・人間科学系　修士課程2年　（2023年4月〜現在）
+東京工業大学　環境・社会理工学院　社会・人間科学系　修士（学術）　（2023年4月〜2025年3月）
 
 津田塾大学　総合政策学部　総合政策学科　（2019年4月〜2023年3月）
 
@@ -94,7 +86,7 @@ Kamenosono, H. and Tago, A. "Public Opinion Study on US Military Bases: A Survey
 沖縄の米軍基地
 
 ## 業績
-修士論文：「仮想・台湾有事における日本政府の対応をめぐる沖縄県民と他県民の支持態度比較実験：シグナルとバックダウンの影響」2025年3月修士取得見込み<br>
+修士論文：「仮想・台湾有事における日本政府の対応をめぐる沖縄県民と他県民の支持態度比較実験：シグナルとバックダウンの影響」2025年3月修士取得<br>
 学士論文：「資源エネルギー貿易に着目した日本と台湾の安全保障体制の比較考察」2023年3月学士取得
 
 **サーベイ実験**<br>
@@ -115,28 +107,9 @@ Kamenosono, H. and Tago, A. "Public Opinion Study on US Military Bases: A Survey
 「資源エネルギー貿易に着目した海上輸送の安全保障」税関発足150周年事業『大学生フォーラム』2023年3月7日
 
 ## Maps
-::: {.grid}
 
-::: {.grid-auto-fit}
-:::{.callout-note}
-## [川名 晋史 研究室](https://sites.google.com/view/kawanalab){target="_blank"} @Tokyo Tech
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1621.9433944506384!2d139.6824459!3d35.6058591!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f5c7cc7bd92d%3A0xc8499216b1e3dd28!2z5p2x5Lqs5bel5qWt5aSn5a2mIOilvznlj7fppKg!5e0!3m2!1sja!2sjp!4v1695984121571!5m2!1sja!2sjp" width="auto" height="auto" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-:::
-
-:::
-
-::: {.grid-auto-fit}
 :::{.callout-note}
 ## [多湖 淳 研究室](https://a-tago.github.io/){target="_blank"} @Waseda
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d924.9990165076774!2d139.7190011967158!3d35.708478600163374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188d1b65b68f05%3A0x548ad5986c6f7ee1!2z44CSMTY5LTAwNTEg5p2x5Lqs6YO95paw5a6_5Yy66KW_5pep56iy55Sw77yR5LiB55uu77yW4oiS77yRIOaXqeeosueUsOWkp-WtpiAz5Y-36aSo!5e0!3m2!1sja!2sjp!4v1695984163272!5m2!1sja!2sjp" width="auto" height="auto" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-:::
-
-:::
-
-:::
-
-:::
-
 :::
