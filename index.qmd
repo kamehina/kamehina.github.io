@@ -14,8 +14,7 @@ about:
 ::: {.panel-tabset}
 # English
 
-1st-year Doctoral Student at Graduate School of Political Science, Waseda University
-
+1st-year Doctoral Student at Graduate School of Political Science, Waseda University<br>
 Research Fellow (DC1), Japan Society for the Promotion of Science
 
 ## Education
@@ -60,8 +59,8 @@ Kamenosono, H. and Tago, A. "Public Opinion Study on US Military Bases: A Survey
 :::
 
 # 日本語
-早稲田大学大学院　政治学研究科　博士課程1年　（2025年4月〜現在）
 
+早稲田大学大学院　政治学研究科　博士課程1年　（2025年4月〜現在）<br>
 日本学術振興会特別研究員　DC1
 
 ## 学歴
@@ -112,4 +111,8 @@ Kamenosono, H. and Tago, A. "Public Opinion Study on US Military Bases: A Survey
 ## [多湖 淳 研究室](https://a-tago.github.io/){target="_blank"} @Waseda
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d924.9990165076774!2d139.7190011967158!3d35.708478600163374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188d1b65b68f05%3A0x548ad5986c6f7ee1!2z44CSMTY5LTAwNTEg5p2x5Lqs6YO95paw5a6_5Yy66KW_5pep56iy55Sw77yR5LiB55uu77yW4oiS77yRIOaXqeeosueUsOWkp-WtpiAz5Y-36aSo!5e0!3m2!1sja!2sjp!4v1695984163272!5m2!1sja!2sjp" width="auto" height="auto" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+:::
+
+:::
+
 :::
